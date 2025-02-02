@@ -1,0 +1,69 @@
+/* External styles in styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.coffee-label {
+    width: 300px;
+    height: 400px;
+    background: linear-gradient(135deg, #6f4e37, #c19a6b);
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.coffee-label h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.tagline {
+    font-style: italic;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.details {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.details p {
+    margin: 5px 0;
+}
+
+.footer {
+    font-size: 14px;
+    font-weight: bold;
+}
+/* styles.css */
+.coffee-label {
+    /* ... your existing styles ... */
+    text-align: center; /* Center the content */
+}
+
+.image-container {
+    width: 200px; /* Adjust as needed */
+    margin: 0 auto; /* Center the image container */
+    margin-bottom: 20px; /* Add some space below the image */
+    overflow: hidden; /* Prevents image overflow */
+}
+
+.coffee-image {
+    width: 100%; /* Makes the image fill the container */
+    display: block; /* Prevents small space below the image */
+}
+
+/* ... your other styles ... */
