@@ -4,8 +4,7 @@ A simple and elegant HTML/CSS project for a coffee product label called **Coffee
 
 ## Preview
 
-![Coffee Label Preview](coffee%20beans.jpg)  
-*Note: Make sure the image `coffee beans.jpg` is present in your project directory for the best preview.*
+![Coffee Label Preview](https://github.com/reezmahanan/label/blob/main/Screenshot%202025-02-02%20133858.png)  
 
 ## Features
 
