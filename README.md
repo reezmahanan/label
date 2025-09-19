@@ -22,7 +22,7 @@ A simple and elegant HTML/CSS project for a coffee product label called **Coffee
    ```
 
 2. **Add the image:**
-   -![Coffee Label Preview](https://github.com/reezmahanan/label/blob/main/coffee%20beans.jpg)
+ ![Coffee Beans](https://github.com/reezmahanan/label/blob/main/coffee%20beans.jpg)
 
 3. **Open in browser:**
    - Double-click `index.html` or open it in your favorite web browser.
