@@ -1,35 +1,53 @@
-# Label
+# Coffee Label
 
-Label is a project designed to help you organize and manage labels efficiently. This repository provides a foundation for labeling tasks, which can be customized for various workflows or integrated into your projects.
+A simple and elegant HTML/CSS project for a coffee product label called **Coffee Bliss**.
+
+## Preview
+
+![Coffee Label Preview](coffee%20beans.jpg)  
+*Note: Make sure the image `coffee beans.jpg` is present in your project directory for the best preview.*
 
 ## Features
 
-- Simple and intuitive labeling interface
-- Easily customizable for different use cases
-- Lightweight and easy to set up
-
-## Screenshot
-
-![Label Screenshot](https://github.com/reezmahanan/label/blob/main/Screenshot%202025-02-02%20133858.png)
+- Clean and modern label design using only HTML and CSS
+- Highlights product details: bean type, roast level, net weight
+- Responsive design for different screen sizes
+- Customizable for your own coffee brand
 
 ## Getting Started
 
-1. **Clone the repository:**
+1. **Clone this repository:**
    ```bash
    git clone https://github.com/reezmahanan/label.git
    cd label
    ```
 
-2. **Install dependencies:**  
-   *(Add installation instructions here if your project requires dependencies, e.g. `npm install`, `pip install -r requirements.txt`, etc.)*
+2. **Add the image:**
+   - Place your coffee label image as `coffee beans.jpg` in the project directory.  
+     *(Or use your own image, but update the `<img src="">` in `index.html` accordingly.)*
 
-3. **Run the project:**  
-   *(Add details here for running the project, e.g. `npm start`, `python app.py`, etc.)*
+3. **Open in browser:**
+   - Double-click `index.html` or open it in your favorite web browser.
 
-## Contributing
+## File Structure
 
-Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
+```
+index.html         # Main HTML file for the label
+styles.css         # CSS file for styles and layout
+coffee beans.jpg   # Coffee beans image (make sure this file exists)
+```
+
+## Customization
+
+- **Change Product Info:**  
+  Edit the text in `index.html` to match your coffee brand, roast, or weight.
+- **Update Styles:**  
+  Modify `styles.css` to adjust colors, fonts, or layout as you like.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is open source and free to use for personal or commercial projects.
+
+---
+
+*Crafted with love ☕*
